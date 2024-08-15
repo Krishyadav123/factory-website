@@ -1,0 +1,9 @@
+.hero{
+  height: 100vh;
+  border: 1px solid green;
+  background: #757575;
+}
+.hero-main{
+  width: 80%;
+  margin: auto;
+}
